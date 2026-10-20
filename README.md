@@ -1,5 +1,3 @@
-> Based on [SAI-CHARAN-JAKKULA/Distributed-File-Storage-System](https://github.com/SAI-CHARAN-JAKKULA/Distributed-File-Storage-System), with bug fixes and one-command launcher scripts (`run.bat` / `run.sh`).
-
 ### Distributed File System 
 
 ### Introduction

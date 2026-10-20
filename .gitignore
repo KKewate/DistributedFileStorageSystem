@@ -1,0 +1,4 @@
+bin/
+run/
+data_*/
+*.log
